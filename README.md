@@ -1,5 +1,5 @@
 # Data-CSS
-A plugin that uses data attribute from selector data-css and creates  &lt;style#data-css/> tag inside the body. It is Helpful when you need to write some quick CSS but not inline. This package automatically generates the selector tag.
+A very light weight plugin (2.25kb only) that uses data attribute from selector data-css and creates  &lt;style#data-css/> tag inside the body. It is Helpful when you need to write some quick CSS but not inline. This package automatically generates the selector tag.
 
 ## How to use
 
