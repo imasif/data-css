@@ -1,6 +1,6 @@
 {
     "name": "Data-CSS",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "description": "A very light weight plugin (2.25kb only) that Generates CSS from selectors' 'data-css' attributes",
     "main": "index.js",
     "scripts": {
