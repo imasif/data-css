@@ -11,7 +11,7 @@ A plugin that uses data attribute from selector data-css and creates  &lt;style#
 
 `<script src="dist/data-css.min.js"></script>`
 
-####Add `data-css="property1:value1;property2:value;2"`
+####Add `data-css="property1:value1;property2:value2"`
 
 ####Example:
 
