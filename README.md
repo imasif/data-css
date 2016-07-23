@@ -3,18 +3,18 @@ A plugin that uses data attribute from selector data-css and creates  &lt;style#
 
 ## How to use
 
-*Include `jQuery` into html.
-```
-<script type="text/javascript" src="../jquery/dist/jquery.min.js"></script>
-```
-*Include `data-css.min.js` into html.
-```
-<script src="dist/data-css.min.js"></script>
-```
+####Include `jQuery` into html.
 
-*Add data-css="property1:value1;property2:value;2"
+`<script type="text/javascript" src="../jquery/dist/jquery.min.js"></script>`
 
-Example:
-```
-<div data-css="Color:blue;background:#f00">Hello</div>
-```
+####Include `data-css.min.js` into html.
+
+`<script src="dist/data-css.min.js"></script>`
+
+####Add `data-css="property1:value1;property2:value;2"`
+
+####Example:
+
+`<div data-css="Color:blue;background:#f00">Hello</div>`
+
+Enjoy
