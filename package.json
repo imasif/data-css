@@ -1,0 +1,40 @@
+{
+    "name": "Data-CSS",
+    "version": "1.0.1",
+    "description": "A very light weight plugin (2.25kb only) that Generates CSS from selectors' data-css attributes",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "keywords": [
+        "jQuery",
+        "Selector",
+        "CSS",
+        "Property",
+        "CSS",
+        "Generator",
+        "CSS",
+        "Inline",
+        "Style"
+    ],
+    "engines": {
+        "node": "4.3.1"
+    },
+    "author": "Md. Asif Khan <asifkhan.bwd@gmail.com> (http://imasif.com)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/imasif/data-css.git"
+    },
+    "dependencies": {
+        "jquery": "^3.1.0",
+        "gulp": "^3.9.1",
+        "gulp-if": "^2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sourcemaps": "^1.6.0",
+        "gulp-uglify": "^1.5.4",
+        "gulp-useref": "^3.1.0",
+        "gulp-util": "^3.0.7",
+        "gulp-webserver": "^0.9.1"
+    }
+}
