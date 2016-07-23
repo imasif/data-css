@@ -1,7 +1,7 @@
 {
     "name": "Data-CSS",
-    "version": "1.0.1",
-    "description": "A very light weight plugin (2.25kb only) that Generates CSS from selectors' data-css attributes",
+    "version": "1.0.12",
+    "description": "A very light weight plugin (2.25kb only) that Generates CSS from selectors' 'data-css' attributes",
     "main": "index.js",
     "scripts": {
         "test": "node index.js"
@@ -26,6 +26,10 @@
         "type": "git",
         "url": "git://github.com/imasif/data-css.git"
     },
+    "bugs": {
+        "url": "https://github.com/imasif/data-css/issues"
+    },
+    "homepage": "http://imasif.com/data-css/",
     "dependencies": {
         "jquery": "^3.1.0",
         "gulp": "^3.9.1",
